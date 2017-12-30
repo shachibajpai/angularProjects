@@ -1,0 +1,176 @@
+/* Required styles from Reset.css and Normalize.css */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,  figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video
+{
+    padding:0;
+    margin:0;
+                border: 0;
+}
+
+ol, ul{
+                list-style:none;
+}
+
+/* Required styles from Reset.css and Normalize.css */
+.clear {
+	clear: both;
+}
+.first{
+    background-color: aliceblue;
+}
+/*.wrapper {
+	
+    background-image: url('../images/back.jpg');
+    background-size: 100%,104%;
+    background-repeat: no-repeat;
+
+}*/
+.pointer{
+    cursor: pointer;
+}
+.head {
+	width: 1024px;
+	min-height: 100px;
+	/*border: 1px solid black;*/
+    margin-top: 233px;
+	/*background: linear-gradient(35deg, red,yellow,green);*/
+}
+.logo{
+	    margin: 8px 0px 0px 10px;
+    float: left;
+    height: 80px;
+    width: 196px;
+}
+
+.headerNav{
+	float: right;
+	margin-top: 5px;
+	
+}
+
+.headerNav li{
+	display: inline;
+	padding: 10px;
+
+}
+.middleNav {
+	float: left;
+}
+.aa a{
+    text-decoration: none;
+    color: white;
+}
+.menu {
+	float: left;
+	border: 2px solid green;
+	    width: 209px;
+    min-height: 395px;
+    text-align: center;
+    background: linear-gradient(35deg, red,yellow,green);
+
+}
+.menu td {
+	padding: 5px;
+	background-color: lightgrey;
+	    font-size: 20px;
+    }
+
+.aa{
+ padding-left: 10px;
+ width: 163px;
+}
+.col-lg-2{
+    padding: 10px;
+}
+.menu tr {
+	border: 1px solid green;
+}
+.menu a {
+	text-decoration: none;
+	color: green;
+}
+.pics {
+    width: 269px;
+    height: 191px;
+}
+.tab1{
+    width: 79%;
+    float: right;
+}
+.second{
+    margin-top: 40px;
+}
+.glyphicon-heart {
+    color: red;
+    font-size: 30px;
+}
+.items {
+	/*float: left;*/
+	 /*background: linear-gradient(35deg, red,yellow,green);*/
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+/*.foot {
+	background: url('../images/back1.jpg')no-repeat;
+	width: 1024px;
+	min-height: 100px;
+}
+
+.foot span{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 20px;
+}*/
+.imgDimensions{
+    height: 283px;
+    width: 389px;
+}
+.imgDimensn2{
+    height: 220px;
+   
+}
+.verticalnav{
+    padding-top: 2%;
+      /*background-color: #788891;*/
+  padding-bottom: 5%;
+/*    overflow: hidden;
+*/}
+.vnav{
+       width: 28%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 45px;
+}
+.vnav h2{
+    font-size: 19px;
+    margin-left: 10%;
+}
+.vnav ul{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.vnav ul li a{
+    font-size: 14px;
+    color: #024167;
+    text-decoration: none;
+
+}
+.up ul li {
+    display: inline;
+}
+
+.down ul li {
+    display: inline;
+}
+
+.copy {
+    /*color: #ffffff;
+    float: left;*/
+    margin-left: 22%;
+    font-size: 10px;
+    margin-top: 1%;
+    margin-left:14%;
+}

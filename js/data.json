@@ -1,0 +1,169 @@
+{ "cakes":[{
+		"name":"Chocolate Cake",
+		"img":"images/ca1.jpg",
+		"id":1,
+		"ing":"75g unsalted butter,softened, 1 cup caster sugar, 2 eggs, 1 1/2 cups self-raising flour, 1/3 cup cocoa powder, sifted 1/2 teaspoon bicarbonate of soda, 1 cup reduced-fat milk, cocoa powder and mixed berries",
+		"recepie":"Preheat oven to 180°C/160°C fan-forced. Grease a 22cm fluted ring pan.Using an electric mixer, beat butter, sugar, eggs, flour, cocoa, bicarbonate of soda and milk on low speed for 1 minute or until just combined. Increase speed to high. Beat for 2 minutes or until thick and creamy.Spoon mixture into pan. Smooth top. Bake for 45 to 50 minutes or until a skewer inserted in the centre comes out clean. Remove from oven. Stand cake in pan for 5 minutes. Turn out onto a wire rack to cool.Place cake on a plate. Dust with cocoa. Top with berries. Serve."
+	},
+	{
+		"name":"Strawberry Cake",
+		"img":"images/ca2.jpg",
+		"id":2,
+		"ing":" 450g butter, 3 cups (660g) caster sugar, 1 tablespoon finely grated orange rind, 6 Coles Brand Australian free range eggs, 1 1/2 cups (360g) fresh ricotta, 4 1/2 cups (675g) plain flour, 1 tablespoon baking powder, 1 teaspoon bicarbonate of soda, 1 1/4 cups (310ml) buttermilk, 1/4 cup (60ml) orange juice, 6 strawberries, end trimmed, very thinly sliced",
+		"recepie":"Preheat oven to 180C. Grease and line the base and sides of three 20cm (base measurement) cake pans.Use an electric mixer to beat the butter, sugar and orange rind in a bowl until pale and creamy. Add the eggs, 1 at a time, beating well after each addition. Beat in the ricotta. Add the flour, baking powder and bicarbonate of soda and stir to combine. Stir in the buttermilk and orange juice. Divide among the prepared pans and smooth the surfaces. Bake for 45 mins or until a skewer inserted in the centre comes out clean. Set aside in the pan for 10 mins to cool slightly. Turn onto a wire rack to cool completely.Use a large serrated knife to trim the top of each cake to level.Meanwhile, to make the buttercream, combine the strawberry and sugar in a small saucepan. Set aside for 5 mins or until the juices are released. Stir over medium-low heat for 10 mins or until the sugar dissolves, the strawberry breaks down and the mixture thickens. Set aside to cool. Process in a food processor until almost smooth."
+	},
+	{
+		"name":"Rainbow Cake",
+		"img":"images/ca3.jpg",
+		"id":3,
+		"ing":"2/3 cups plain flour, 1 tablespoon caster sugar, 1 teaspoon instant dried yeast, 1/2 teaspoon salt, 3 eggs, 2 tablespoons milk warmed, 1 teaspoon orange rind, finely grated, 175g butter, chopped, softened, 1 egg yolk, 1 tablespoon milk, extra 1/4 cup flaked almonds",
+		"recepie":"Place flour, sugar, yeast and salt in the bowl of an electric mixer fitted with a dough hook. Knead to combine. Add eggs, milk and orange rind. Knead on medium speed for 6 minutes or until smooth and elastic. With motor operating, gradually add butter, about 2 tablespoons at a time, kneading between each addition. Knead for 6 to 8 minutes or until shiny, smooth and elastic. Cover with a clean tea towel. Stand in a warm place for 1 1/2 to 2 hours or until it has doubled in size. Press dough with spatula to knock back.Meanwhile, make vanilla and orange cream: Place milk, orange rind and vanilla bean paste in a saucepan. Bring to the boil over medium heat. Meanwhile, whisk egg yolks, sugar and cornflour in a heatproof bowl until smooth. Gradually whisk in hot milk mixture. Strain custard through a sieve into a heavy-based saucepan. Discard rind. Whisk custard over medium heat for 5 minutes or until the mixture boils and thickens. Transfer to a shallow dish. Cover surface with plastic wrap. Refrigerate for 2 to until cooled completely.Grease a 22cm round (base) springform pan. Dust with flour. Turn dough into prepared pan. Using a spatula, spread dough to edge"
+	},
+	{
+		"name":"Vanilla Cake",
+		"img":"images/ca4.jpg",
+		"id":4,
+		"ing":"2/3 cups plain flour, 1 tablespoon caster sugar, 1 teaspoon instant dried yeast, 1/2 teaspoon salt, 3 eggs, 2 tablespoons milk warmed, 1 teaspoon orange rind, finely grated, 175g butter, chopped, softened, 1 egg yolk, 1 tablespoon milk, extra 1/4 cup flaked almonds",
+		"recepie":"Place flour, sugar, yeast and salt in the bowl of an electric mixer fitted with a dough hook. Knead to combine. Add eggs, milk and orange rind. Knead on medium speed for 6 minutes or until smooth and elastic. With motor operating, gradually add butter, about 2 tablespoons at a time, kneading between each addition. Knead for 6 to 8 minutes or until shiny, smooth and elastic. Cover with a clean tea towel. Stand in a warm place for 1 1/2 to 2 hours or until it has doubled in size. Press dough with spatula to knock back.Meanwhile, make vanilla and orange cream: Place milk, orange rind and vanilla bean paste in a saucepan. Bring to the boil over medium heat. Meanwhile, whisk egg yolks, sugar and cornflour in a heatproof bowl until smooth. Gradually whisk in hot milk mixture. Strain custard through a sieve into a heavy-based saucepan. Discard rind. Whisk custard over medium heat for 5 minutes or until the mixture boils and thickens. Transfer to a shallow dish. Cover surface with plastic wrap. Refrigerate for 2 to until cooled completely.Grease a 22cm round (base) springform pan. Dust with flour. Turn dough into prepared pan. Using a spatula, spread dough to edge"
+	},
+	{
+		"name":"Pineapple Cake",
+		"img":"images/ca5.jpg",
+		"id":5,
+		"ing":" 450g butter, 3 cups (660g) caster sugar, 1 tablespoon finely grated orange rind, 6 Coles Brand Australian free range eggs, 1 1/2 cups (360g) fresh ricotta, 4 1/2 cups (675g) plain flour, 1 tablespoon baking powder, 1 teaspoon bicarbonate of soda, 1 1/4 cups (310ml) buttermilk, 1/4 cup (60ml) orange juice, 6 strawberries, end trimmed, very thinly sliced",
+		"recepie":"Preheat oven to 180C. Grease and line the base and sides of three 20cm (base measurement) cake pans.Use an electric mixer to beat the butter, sugar and orange rind in a bowl until pale and creamy. Add the eggs, 1 at a time, beating well after each addition. Beat in the ricotta. Add the flour, baking powder and bicarbonate of soda and stir to combine. Stir in the buttermilk and orange juice. Divide among the prepared pans and smooth the surfaces. Bake for 45 mins or until a skewer inserted in the centre comes out clean. Set aside in the pan for 10 mins to cool slightly. Turn onto a wire rack to cool completely.Use a large serrated knife to trim the top of each cake to level.Meanwhile, to make the buttercream, combine the strawberry and sugar in a small saucepan. Set aside for 5 mins or until the juices are released. Stir over medium-low heat for 10 mins or until the sugar dissolves, the strawberry breaks down and the mixture thickens. Set aside to cool. Process in a food processor until almost smooth."
+	},
+	{
+		"name":"Black Forest Cake",
+		"img":"images/ca6.jpg",
+		"id":6,
+		"ing":" 450g butter, 3 cups (660g) caster sugar, 1 tablespoon finely grated orange rind, 6 Coles Brand Australian free range eggs, 1 1/2 cups (360g) fresh ricotta, 4 1/2 cups (675g) plain flour, 1 tablespoon baking powder, 1 teaspoon bicarbonate of soda, 1 1/4 cups (310ml) buttermilk, 1/4 cup (60ml) orange juice, 6 strawberries, end trimmed, very thinly sliced",
+		"recepie":"Preheat oven to 180C. Grease and line the base and sides of three 20cm (base measurement) cake pans.Use an electric mixer to beat the butter, sugar and orange rind in a bowl until pale and creamy. Add the eggs, 1 at a time, beating well after each addition. Beat in the ricotta. Add the flour, baking powder and bicarbonate of soda and stir to combine. Stir in the buttermilk and orange juice. Divide among the prepared pans and smooth the surfaces. Bake for 45 mins or until a skewer inserted in the centre comes out clean. Set aside in the pan for 10 mins to cool slightly. Turn onto a wire rack to cool completely.Use a large serrated knife to trim the top of each cake to level.Meanwhile, to make the buttercream, combine the strawberry and sugar in a small saucepan. Set aside for 5 mins or until the juices are released. Stir over medium-low heat for 10 mins or until the sugar dissolves, the strawberry breaks down and the mixture thickens. Set aside to cool. Process in a food processor until almost smooth."
+	}],
+	"noodles":[{
+		"name":"Tomato Noodles",
+		"img":"images/no1.jpg",
+		"id":1,
+		"ing":"Noodles 400 grams, 1tbsp olive oil,1 garlic clove crushed, 1 onion, chopped, 2 peppers, sliced 1 courgette, sliced 1tsp oregano, 400g can of chopped tomatoes,1tsp sugar or sweetener",
+		"recepie":"Put water in saucepan to boil for noodles. Meanwhile in an other pan heat the olive oil and add to it the chopped onion, garlic, peppers and courgette and cook for 5 mins till the onion softens.Add the chopped tomatoes, the oregano and the sugar and bring to the boil. Then cover and gently simmer for 15 mins.Drain the noodles and add the tomato and veg mixture to it and mix together."
+	},
+	{
+		"name":"Soupy Noodles",
+		"img":"images/no4.jpg",
+		"id":2,
+		"ing":"2 1/4 cups boiled noodles,a few spring onion greens,1/2 cup chilli-garlic sauce,1 tbsp chilli oil,2 tbsp refined oil",
+		"recepie":"Place water in saucepan to boil for noodles. Heat the refined oil thoroughly.Add the spring onion leaves, noodles and garlic sauce and cook on a high flame for 3 to 4 minutes.Pour the chilli oil on top and toss.Serve hot.d courgette and cook for 5 mins till the onion softens.Add the chopped tomatoes, the oregano and the sugar and bring to the boil. Then cover and gently simmer for 15 mins.Drain the noodles and add the tomato and veg mixture to it and mix together."
+	},
+	{
+		"name":"Hakka Noodles",
+		"img":"images/no3.jpg",
+		"id":3,
+		"ing":"Noodles 400 grams,Salt to taste, French beans 6-8 ,Onions 1 medium,Cabbage finely shredded 1/4 small, Oil 3 tablespoons, Carrot cut into thin strips 1 medium ,White pepper powder 1/4, teaspoonSoy sauce 1 tablespoon, Green capsicum",
+		"recepie":"Heat 7 cups water in a Wonderchef Diamond Wok Add salt and place a colander in it. Put the noodles in the colander and allow them to cook. String beans, slit them lengthwise and then cut them diagonally or cut into diamonds.eans, slit them lengthwise and then cut them diagonally or cut into diamonds.Slice onion and shred cabbage. You can use a slicer to shred the cabbage. When the noodles are done, lift the colander with the noodles and put into another pan with cold water. Heat 2 tbsps oil in Wonderchef Diamond Wok. Add onion, French beans, carrot and toss. Add cabbage and toss.Remove the colander with the noodles Add capsicum, bean sprouts and vinegar and toss again. Serve hot."
+	},
+	{
+		"name":"Chilly Noodles",
+		"img":"images/no2.jpg",
+		"id":4,
+		"ing":"Noodles 400 grams,Salt to taste, French beans 6-8 ,Onions 1 medium,Cabbage finely shredded 1/4 small, Oil 3 tablespoons, Carrot cut into thin strips 1 medium ,White pepper powder 1/4, teaspoonSoy sauce 1 tablespoon, Green capsicum",
+		"recepie":"Heat 7 cups water in a Wonderchef Diamond Wok Add salt and place a colander in it. Put the noodles in the colander and allow them to cook. String beans, slit them lengthwise and then cut them diagonally or cut into diamonds.eans, slit them lengthwise and then cut them diagonally or cut into diamonds.Slice onion and shred cabbage. You can use a slicer to shred the cabbage. When the noodles are done, lift the colander with the noodles and put into another pan with cold water. Heat 2 tbsps oil in Wonderchef Diamond Wok. Add onion, French beans, carrot and toss. Add cabbage and toss.Remove the colander with the noodles Add capsicum, bean sprouts and vinegar and toss again. Serve hot."
+	},
+	{
+		"name":"Red Noodles",
+		"img":"images/no5.jpg",
+		"id":5,
+		"ing":"Noodles 400 grams,Salt to taste, French beans 6-8 ,Onions 1 medium,Cabbage finely shredded 1/4 small, Oil 3 tablespoons, Carrot cut into thin strips 1 medium ,White pepper powder 1/4, teaspoonSoy sauce 1 tablespoon, Green capsicum",
+		"recepie":"Heat 7 cups water in a Wonderchef Diamond Wok Add salt and place a colander in it. Put the noodles in the colander and allow them to cook. String beans, slit them lengthwise and then cut them diagonally or cut into diamonds.eans, slit them lengthwise and then cut them diagonally or cut into diamonds.Slice onion and shred cabbage. You can use a slicer to shred the cabbage. When the noodles are done, lift the colander with the noodles and put into another pan with cold water. Heat 2 tbsps oil in Wonderchef Diamond Wok. Add onion, French beans, carrot and toss. Add cabbage and toss.Remove the colander with the noodles Add capsicum, bean sprouts and vinegar and toss again. Serve hot."
+	},
+	{
+		"name":"White Noodles",
+		"img":"images/no6.jpg",
+		"id":6,
+		"ing":"Noodles 400 grams,Salt to taste, French beans 6-8 ,Onions 1 medium,Cabbage finely shredded 1/4 small, Oil 3 tablespoons, Carrot cut into thin strips 1 medium ,White pepper powder 1/4, teaspoonSoy sauce 1 tablespoon, Green capsicum",
+		"recepie":"Heat 7 cups water in a Wonderchef Diamond Wok Add salt and place a colander in it. Put the noodles in the colander and allow them to cook. String beans, slit them lengthwise and then cut them diagonally or cut into diamonds.eans, slit them lengthwise and then cut them diagonally or cut into diamonds.Slice onion and shred cabbage. You can use a slicer to shred the cabbage. When the noodles are done, lift the colander with the noodles and put into another pan with cold water. Heat 2 tbsps oil in Wonderchef Diamond Wok. Add onion, French beans, carrot and toss. Add cabbage and toss.Remove the colander with the noodles Add capsicum, bean sprouts and vinegar and toss again. Serve hot."
+	}],
+	"starter":[{
+	   "name":"Aloo and Paneer Roll",
+	   "img":"images/st4.jpg",
+	   "id":1,
+	   "ing":"1/4 cup plain flour (maida),1/4 cup whole wheat flour,1/2 tbsp oil,salt to taste,1 1/2 cups boiled,peeled and grated potatoes,1 1/2 cups grated paneer,2 tbsp oil,1 tsp cumin seeds,2 tsp finely chopped green chillies,2 tbsp finely chopped coriander.2 tbsp finely chopped mint leaves (phudina),salt to taste",
+	   "recepie":"Combine all the ingredients in a deep bowl and knead into a soft dough using enough water.Divide the dough into 6 equal portions and roll each portion into a 125 mm. (5”) diameter circle using little whole wheat flour for rolling.Heat a non-stick tava (griddle) and semi-cook the rotis and keep aside.For the stuffing heat the oil on a non-stick tava (griddle) and add the cumin seeds.When the seeds crackle, add the green chillies and sauté on a medium flame for a few seconds.Add the potatoes, paneer, coriander, mint leaves and salt, mix well and cook on a medium flame for 2 to 3 minutes, while stirring occasionally.Divide the stuffing into 6 equal portions and roll each portion into an oblong roll and keep aside."
+	},
+	{
+		"name":"Corn Manchurian",
+		"img":"images/st2.jpg",
+		"id":2,
+		"ing":"1/2 cups milk,4 tbsp butter,5 tbsp plain flour (maida),18 fresh large corn,1 tbsp chopped celery,1 tbsp chopped coriander (dhania),4 green chillies, chopped,4 tbsp grated processed cheese,1 tsp butter,1/3 cup plain flour (maida),bread crumbs to fry,oil for deep-frying,salt to taste.",
+		"recepie":"Melt the butter in a vessle, add the flour and cook for a little time.Now add the milk. Go on stirring and cooking until the mixture becomes a lump Cool.Grate half the corn and take out whole corns from the rest.Add the butter and 1/2 teacup of water and cook in a pressure cooker.Mix the cooked corn, the prepared sauce, the celery, coriander, green chillies, cheese and salt. Shape into croquettes.Mix 1/2 teacup of flour and 1 teacup of water. Dip the croquettes into the paste. Roll into the bread crumbs.When you want to serve, deep fry in oil.Serve hot with tomato ketchup."
+	},
+	{
+		"name":"Gobi Manchurian",
+		"img":"images/st3.jpg",
+		"id":3,
+		"ing":"1 tbsp butter,2 tbsp plain flour (maida),1/2 cup milk,1/2 cup cooked sweet corn kernels (makai ke dane) , crushed,1 cup cooked penne , finely chopped,1/4 cup finely chopped and blanched spinach (palak),1 tbsp finely chopped coriander (dhania),1/4 tsp finely chopped green chillies (optional),4 tbsp grated processed cheese,salt to taste,1/4 cup plain flour (maida) mixed with 3 tbsp of water,bread crumbs for coating,oil for deep frying,bread sticks , cut into pieces.",
+		"recepie":"Melt the butter in a pan, add the flour and cook for 1 minute, stir continuously to avoid burning.Add the milk and cook over a slow flame till the sauce thickens and no lumps remain. Remove from the flame and keep aside.Mix together the sweet corn, macaroni, spinach, coriander, green chillies, cheese, salt and the prepared sauce in a bowl and mash well.Divide the mixture into 40 equal portions and shape each portion into a round balls and insert the bread sticks.Dip only the macaroni mixture into the flour paste, coat well with the bread crumbs and keep aside.Deep fry the lollies over a high flame till they turn light brown in colour.Serve with tomato ketchup."
+	},
+	{
+		"name":"Filled Capsicum",
+		"img":"images/st5.jpg",
+		"id":4,
+		"ing":"1 tbsp butter,2 tbsp plain flour (maida),1/2 cup milk,1/2 cup cooked sweet corn kernels (makai ke dane) , crushed,1 cup cooked penne , finely chopped,1/4 cup finely chopped and blanched spinach (palak),1 tbsp finely chopped coriander (dhania),1/4 tsp finely chopped green chillies (optional),4 tbsp grated processed cheese,salt to taste,1/4 cup plain flour (maida) mixed with 3 tbsp of water,bread crumbs for coating,oil for deep frying,bread sticks , cut into pieces.",
+		"recepie":"Melt the butter in a pan, add the flour and cook for 1 minute, stir continuously to avoid burning.Add the milk and cook over a slow flame till the sauce thickens and no lumps remain. Remove from the flame and keep aside.Mix together the sweet corn, macaroni, spinach, coriander, green chillies, cheese, salt and the prepared sauce in a bowl and mash well.Divide the mixture into 40 equal portions and shape each portion into a round balls and insert the bread sticks.Dip only the macaroni mixture into the flour paste, coat well with the bread crumbs and keep aside.Deep fry the lollies over a high flame till they turn light brown in colour.Serve with tomato ketchup."
+	},
+	{
+		"name":"Sweet Pie",
+		"img":"images/st6.jpg",
+		"id":5,
+		"ing":"1 tbsp butter,2 tbsp plain flour (maida),1/2 cup milk,1/2 cup cooked sweet corn kernels (makai ke dane) , crushed,1 cup cooked penne , finely chopped,1/4 cup finely chopped and blanched spinach (palak),1 tbsp finely chopped coriander (dhania),1/4 tsp finely chopped green chillies (optional),4 tbsp grated processed cheese,salt to taste,1/4 cup plain flour (maida) mixed with 3 tbsp of water,bread crumbs for coating,oil for deep frying,bread sticks , cut into pieces.",
+		"recepie":"Melt the butter in a pan, add the flour and cook for 1 minute, stir continuously to avoid burning.Add the milk and cook over a slow flame till the sauce thickens and no lumps remain. Remove from the flame and keep aside.Mix together the sweet corn, macaroni, spinach, coriander, green chillies, cheese, salt and the prepared sauce in a bowl and mash well.Divide the mixture into 40 equal portions and shape each portion into a round balls and insert the bread sticks.Dip only the macaroni mixture into the flour paste, coat well with the bread crumbs and keep aside.Deep fry the lollies over a high flame till they turn light brown in colour.Serve with tomato ketchup."
+	},
+	{
+		"name":"Lollipop",
+		"img":"images/st7.jpg",
+		"id":6,
+		"ing":"1 tbsp butter,2 tbsp plain flour (maida),1/2 cup milk,1/2 cup cooked sweet corn kernels (makai ke dane) , crushed,1 cup cooked penne , finely chopped,1/4 cup finely chopped and blanched spinach (palak),1 tbsp finely chopped coriander (dhania),1/4 tsp finely chopped green chillies (optional),4 tbsp grated processed cheese,salt to taste,1/4 cup plain flour (maida) mixed with 3 tbsp of water,bread crumbs for coating,oil for deep frying,bread sticks , cut into pieces.",
+		"recepie":"Melt the butter in a pan, add the flour and cook for 1 minute, stir continuously to avoid burning.Add the milk and cook over a slow flame till the sauce thickens and no lumps remain. Remove from the flame and keep aside.Mix together the sweet corn, macaroni, spinach, coriander, green chillies, cheese, salt and the prepared sauce in a bowl and mash well.Divide the mixture into 40 equal portions and shape each portion into a round balls and insert the bread sticks.Dip only the macaroni mixture into the flour paste, coat well with the bread crumbs and keep aside.Deep fry the lollies over a high flame till they turn light brown in colour.Serve with tomato ketchup."
+	}],
+	"curry":[{
+		"name":"Matar Paneer",
+		"img":"images/cu6.jpg",
+		"id":1,
+		"ing":"2 1/2 cups grated cauliflower,1 1/2 cups roughly chopped tomatoes,2 tbsp oil,1 cup finely chopped onions,1/2 tsp turmeric powder (haldi),alt to taste,1/2 cup crumbled paneer (cottage cheese),5 green chillies , roughly chopped,6 to 7 garlic (lehsun) cloves,25 mm (1”) piece ginger (adrak),3 cloves (laung / lavang),3 cardamms,5 to 6 black peppercorns (kalimirch),1 tsp cumin seeds (jeera),1 1/2 tsp chilli powder",
+		"recepie":"Blend the tomatoes in a mixer to a smooth pulp and keep aside.Heat the oil in a deep non-stick kadhai, add the onions and sauté on a medium flame for 3 to 4 minutes or till they turn golden brown in colour.Add the prepared spicy paste and cook on a medium flame for 2 to 3 minutes, while stirring occasionally.Add the cauliflower, turmeric powder, tomato pulp and salt and mix well. Cover and cook on a medium flame for 5 to 7 minutes, while stirring occasionally.Add the paneer, mix well and cook on a medium flame for 1 to 2 minutes.Garnish with coriander and serve hot with parathas."
+	},
+	{
+		"name":"Cholle",
+		"img":"images/cu4.jpg",
+		"id":2,
+		"ing":"2 cups roughly chopped tomatoes,3 cloves of garlic (lehsun),25 mm. (1) piece of ginger (adrak),8 whole dry kashmiri red chillies,2 tbsp broken cashewnuts (kaju),1 tsp cumin seeds (jeera),1 tsp fennel seeds (saunf),2 1/2 cups water,8 nos. cardamom (elaichi),1 tbsp roasted dried fenugreek leaves (kasuri methi),1 tbsp honey,1/4 cup fresh cream,1 tbsp chopped coriander (dhania),2 tsp butter,1 tsp oil,salt to taste.",
+		"recepie":"Wash and dry the baby potatoes. Pierce each potato all around with a fork and deep fry in hot oil, with the skin on, till the potatoes are cooked.Drain on absorbent paper and keep aside.Combine all the ingredients together and simmer over a medium flame till the tomatoes are cooked.Cool the mixture and purée in a blender to make a smooth paste.Heat the butter and oil in a pan, add the cardamom and gravy paste and allow it to come to a boil. Simmer till the oil separates form the gravy.Add the potatoes, kasuri methi, honey and salt and simmer for some more time.Add the cream and coriander and serve hot."
+	},
+	{
+		"name":"Mushroom",
+		"img":"images/cu3.jpg",
+		"id":3,
+		"ing":"1/3 cup plain flour,1/3 cup cornflour,1/3 cup milk,1/3 cup water,2 tsp melted butter or oil,a pinch of salt,4 tbsp finely chopped mushrooms (khumbh),1 tbsp chopped onion,1 tsp plain flour (maida),1 green chilli, finely chopped,1/4 tsp dried oregano,3/4 cup White Sauce,2 tsp butter,salt to taste.",
+		"recepie":"Mix the plain flour, cornflour, milk, water and salt into a batter.Spread 1 tablespoon of the batter onto a non-stick frying pan and cook on both sides with a little butter. Repeat for the remaining batter.Heat the butter and fry the onion for 1/2 minute.Add the flour and green chilli and fry for a few seconds.Add the mushrooms and oregano and cook for 2 minutes or until soft. Add salt.Add the white sauce and mix well.Spread 2 tablespoons of stuffing on each pancake and fold.Arrange the stuffed pancakes in a baking dish and pour white sauce on top.Sprinkle grated cheese and bake in a hot oven at 230 degree C (450 degree F) for 20 minutes or until golden brown."
+	},
+	{
+		"name":"Potato",
+		"img":"images/cu2.jpg",
+		"id":4,
+		"ing":"1/3 cup plain flour,1/3 cup cornflour,1/3 cup milk,1/3 cup water,2 tsp melted butter or oil,a pinch of salt,4 tbsp finely chopped mushrooms (khumbh),1 tbsp chopped onion,1 tsp plain flour (maida),1 green chilli, finely chopped,1/4 tsp dried oregano,3/4 cup White Sauce,2 tsp butter,salt to taste.",
+		"recepie":"Mix the plain flour, cornflour, milk, water and salt into a batter.Spread 1 tablespoon of the batter onto a non-stick frying pan and cook on both sides with a little butter. Repeat for the remaining batter.Heat the butter and fry the onion for 1/2 minute.Add the flour and green chilli and fry for a few seconds.Add the mushrooms and oregano and cook for 2 minutes or until soft. Add salt.Add the white sauce and mix well.Spread 2 tablespoons of stuffing on each pancake and fold.Arrange the stuffed pancakes in a baking dish and pour white sauce on top.Sprinkle grated cheese and bake in a hot oven at 230 degree C (450 degree F) for 20 minutes or until golden brown."
+	},
+	{
+		"name":"Filled Brinjal",
+		"img":"images/cu5.jpg",
+		"id":5,
+		"ing":"1/3 cup plain flour,1/3 cup cornflour,1/3 cup milk,1/3 cup water,2 tsp melted butter or oil,a pinch of salt,4 tbsp finely chopped mushrooms (khumbh),1 tbsp chopped onion,1 tsp plain flour (maida),1 green chilli, finely chopped,1/4 tsp dried oregano,3/4 cup White Sauce,2 tsp butter,salt to taste.",
+		"recepie":"Mix the plain flour, cornflour, milk, water and salt into a batter.Spread 1 tablespoon of the batter onto a non-stick frying pan and cook on both sides with a little butter. Repeat for the remaining batter.Heat the butter and fry the onion for 1/2 minute.Add the flour and green chilli and fry for a few seconds.Add the mushrooms and oregano and cook for 2 minutes or until soft. Add salt.Add the white sauce and mix well.Spread 2 tablespoons of stuffing on each pancake and fold.Arrange the stuffed pancakes in a baking dish and pour white sauce on top.Sprinkle grated cheese and bake in a hot oven at 230 degree C (450 degree F) for 20 minutes or until golden brown."
+	},
+	{
+		"name":"Cauliflower",
+		"img":"images/cu1.jpg",
+		"id":6,
+		"ing":"1/3 cup plain flour,1/3 cup cornflour,1/3 cup milk,1/3 cup water,2 tsp melted butter or oil,a pinch of salt,4 tbsp finely chopped mushrooms (khumbh),1 tbsp chopped onion,1 tsp plain flour (maida),1 green chilli, finely chopped,1/4 tsp dried oregano,3/4 cup White Sauce,2 tsp butter,salt to taste.",
+		"recepie":"Mix the plain flour, cornflour, milk, water and salt into a batter.Spread 1 tablespoon of the batter onto a non-stick frying pan and cook on both sides with a little butter. Repeat for the remaining batter.Heat the butter and fry the onion for 1/2 minute.Add the flour and green chilli and fry for a few seconds.Add the mushrooms and oregano and cook for 2 minutes or until soft. Add salt.Add the white sauce and mix well.Spread 2 tablespoons of stuffing on each pancake and fold.Arrange the stuffed pancakes in a baking dish and pour white sauce on top.Sprinkle grated cheese and bake in a hot oven at 230 degree C (450 degree F) for 20 minutes or until golden brown."
+	}]
+}

@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">     
+        <title>Open Taste</title>        
+    </head>
+    <body ng-app="myApp">
+<div class="first">
+      <div class="container">
+        <header>  
+    <div class="row">
+      <div class="col-lg-6">
+          <a href="#page1"><img src="images/ff.jpg" alt="logo" title="logo" class="logo"></a>
+         </div>
+          <!-- <div class="col-xs-offset-3"></div>            -->       
+            <div class="col-lg-2">
+        <a href="#page1"><button class="btn btn-success aa">Home</button></a>
+        </div>
+      <!-- <div class="col-xs-offset-1"></div>                 -->
+      <div class="col-lg-2">
+        <a href="#about"><button class="btn btn-success aa">About Us</button></a>
+    </div>
+    <!-- <div class="col-xs-offset-1"></div>   -->
+    <div class="col-lg-2">
+    <a href="#contact"><button class="btn btn-success aa">Contact Us</button></a>
+    </div>
+     </div>
+</header>             
+    <div ng-view class="mainContent">        
+            </div>
+            <footer class="footer" id="mainfoot">          
+<!--            <h2>Customer Service </h2>
+            <ul>
+              <li><a href="javascript:void(0)">Contact</a></li>
+              <li><a href="javascript:void(0)">FAQ</a> </li></ul>
+              <span class="copy">
+            &copy; openTaste.com All Rights Reserved
+          </span> -->
+           <div class="verticalnav">
+          <div class="vnav">
+            <h2>Customer Service </h2><ul>
+              <li><a href="javascript:void(0)">Contact</a></li>
+              <li><a href="javascript:void(0)">FAQ</a> </li>
+              <li><a href="javascript:void(0)">Terms of payment </a></li>
+              <li><a href="javascript:void(0)">Home Delievery</a> </li>
+              <li><a href="javascript:void(0)">Terms and conditions</a></li> 
+              <li><a href="javascript:void(0)">Returns and Refunds</a> </li>
+            </ul>
+          </div>
+          
+          <div class="vnav">
+            <h2>Branches</h2>
+            <ul>
+            <li><a href="javascript:void(0)">Hyderabad</a> </li>
+             <li><a href="javascript:void(0)">Chennai</a> </li>
+             <li><a href="javascript:void(0)">Mumbai</a> </li>
+             <li> <a href="javascript:void(0)">Bangalore</a></li>
+             <li><a href="javascript:void(0)">Singapore</a> </li>
+             <li><a href="javascript:void(0)">Ahmedabad</a> </li>
+            </ul>
+          </div>
+           <div class="vnav">
+            <h2>Social</h2>
+            <div class="up">
+              <ul>
+               <li><a href="javascript:void(0)"><img src="images/tweet.png" alt="twitter"/></a></li>
+                <li><a href="javascript:void(0)"><img src="images/f.png" alt="fb"/></a></li>
+                <li><a href="javascript:void(0)"><img src="images/p.png" alt="pin"/></a></li>
+                </ul>
+            </div>
+            <div class="down">
+              <ul>
+                <li><a href="javascript:void(0)"><img src="images/g.png" alt="gmail"/></a></li>
+                <li><a href="javascript:void(0)"><img src="images/t.png" alt="tumblr"/></a></li>
+                <li><a href="javascript:void(0)"><img src="images/v.png" alt="v"/></a></li>
+              </ul>
+            </div>
+          </div>
+           <!-- <span class="copy clear">
+            &copy; openTaste.com All Rights Reserved
+          </span>  -->
+</div>
+ </footer>
+  </div> 
+  </div>     
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/angular-route.min.js"></script>
+        <script type="text/javascript" src="js/angular.localstorage.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>        
+    </body>
+</html>

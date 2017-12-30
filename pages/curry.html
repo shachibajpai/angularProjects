@@ -1,0 +1,87 @@
+<div ng-controller="cuController">
+<div class="container second">
+ 
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-12" ng-repeat="cu in images">
+<h4>{{cu.name}}</h4>
+  <p><img ng-src="{{cu.img}}" ng-click="fun(this)" class="img-responsive imgDimensions pointer" data-toggle="modal" data-target="#myModal1"></p>
+  <p><a href="" data-toggle="modal" ng-click="selecteditem(cu.id)" data-target="#myModal2">Send Review</a></p>
+  <p><a href="" data-toggle="modal" ng-click="reviews(cu)" data-target="#myModal3">View Reviews</a></p>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="myModal1" role="dialog">
+    <div class="modal-dialog modal-lg modal-sm">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">CURRY</h4>
+        </div>
+        <div class="modal-body" >
+          <h2> {{x}} </h2>
+<p> <img src="{{y}}" class="imgDimensions"> </p>
+<p> <h3>Ingredients</h3>{{z}} </p>
+<p> <h3>Recepie</h3>{{u}} </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <!-- POP-UP for Sending Review starts here -->
+  <div class="modal fade" id="myModal2" role="dialog">
+    <div class="modal-dialog modal-lg modal-sm">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">CURRY</h4>
+        </div>
+        <div class="modal-body" >
+          <textarea ng-model="r" rows="5" cols="100" id="rev"></textarea>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" ng-click="send($event)" data-dismiss="modal">Submit</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+<!-- PopUp for Viewing review starts here -->
+  <div class="modal fade" id="myModal3" role="dialog">
+    <div class="modal-dialog modal-lg modal-sm">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Reviews</h4>
+        </div>
+        <div class="modal-body" >
+          <div class="row well">
+          <h2>Your Reviews</h2>
+        </div>
+         <div ng-repeat="x in selectedReviewList">
+          <div class="row well success">
+           <p>{{x.review}}</p>
+           </div>
+         </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
